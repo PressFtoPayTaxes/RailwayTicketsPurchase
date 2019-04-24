@@ -1,0 +1,11 @@
+C:\Users\СкоропадИг.CORP\source\repos\RailwayTicketsPurchaseApp\RailwayTicketsPurchaseApp.Models\bin\Debug\RailwayTicketsPurchaseApp.Models.dll
+C:\Users\СкоропадИг.CORP\source\repos\RailwayTicketsPurchaseApp\RailwayTicketsPurchaseApp.Models\bin\Debug\RailwayTicketsPurchaseApp.Models.pdb
+C:\Users\СкоропадИг.CORP\source\repos\RailwayTicketsPurchaseApp\RailwayTicketsPurchaseApp.Models\obj\Debug\RailwayTicketsPurchaseApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг.CORP\source\repos\RailwayTicketsPurchaseApp\RailwayTicketsPurchaseApp.Models\obj\Debug\RailwayTicketsPurchaseApp.Models.dll
+C:\Users\СкоропадИг.CORP\source\repos\RailwayTicketsPurchaseApp\RailwayTicketsPurchaseApp.Models\obj\Debug\RailwayTicketsPurchaseApp.Models.pdb
+C:\Users\Admin\source\repos\RailwayTicketsPurchaseApp\RailwayTicketsPurchaseApp.Models\bin\Debug\RailwayTicketsPurchaseApp.Models.dll
+C:\Users\Admin\source\repos\RailwayTicketsPurchaseApp\RailwayTicketsPurchaseApp.Models\bin\Debug\RailwayTicketsPurchaseApp.Models.pdb
+C:\Users\Admin\source\repos\RailwayTicketsPurchaseApp\RailwayTicketsPurchaseApp.Models\obj\Debug\RailwayTicketsPurchaseApp.Models.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\RailwayTicketsPurchaseApp\RailwayTicketsPurchaseApp.Models\obj\Debug\RailwayTicketsPurchaseApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RailwayTicketsPurchaseApp\RailwayTicketsPurchaseApp.Models\obj\Debug\RailwayTicketsPurchaseApp.Models.dll
+C:\Users\Admin\source\repos\RailwayTicketsPurchaseApp\RailwayTicketsPurchaseApp.Models\obj\Debug\RailwayTicketsPurchaseApp.Models.pdb
